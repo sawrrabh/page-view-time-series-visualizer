@@ -12,4 +12,3 @@ Use the data to complete the following tasks:
 
 For each chart, make sure to use a copy of the data frame.
 
-[FreeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/page-view-time-series-visualizer)
